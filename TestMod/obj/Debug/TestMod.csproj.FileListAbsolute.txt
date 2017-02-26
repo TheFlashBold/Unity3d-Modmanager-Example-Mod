@@ -1,0 +1,7 @@
+E:\Work\Unity\ShittyTest\TestMod\TestMod\obj\Debug\TestMod.csprojResolveAssemblyReference.cache
+E:\Work\Unity\ShittyTest\TestMod\TestMod\bin\Debug\TestMod.dll
+E:\Work\Unity\ShittyTest\TestMod\TestMod\bin\Debug\TestMod.pdb
+E:\Work\Unity\ShittyTest\TestMod\TestMod\bin\Debug\UnityEngine.dll
+E:\Work\Unity\ShittyTest\TestMod\TestMod\obj\Debug\TestMod.dll
+E:\Work\Unity\ShittyTest\TestMod\TestMod\obj\Debug\TestMod.pdb
+E:\Work\Unity\ShittyTest\TestMod\TestMod\bin\Debug\Assembly-CSharp.dll
